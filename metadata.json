@@ -1,0 +1,8 @@
+{
+  "name": "First Aid",
+  "description": "A life-saving assistant tool providing instant first aid guidance and locating nearby hospitals.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
